@@ -51,7 +51,7 @@ def solution(V, L):
 
 
 # wybierz jeden z plików z folderu graphs-lab1
-filename = "graphs-lab1/g1"
+filename = "graphs-lab1/clique1000"
 
 V, L = loadWeightedGraph(filename)
 

@@ -44,10 +44,13 @@ def Dijkstra_mod(V, L):
                 heapq.heappush(max_heap, (-max_min_dist[v], v))
 
 
+    return None
+
+
 
 
 # wybierz jeden z plików z folderu graphs-lab1
-filename = "graphs-lab1/g1"
+filename = "graphs-lab1/clique1000"
 
 V, L = loadWeightedGraph(filename)
 
