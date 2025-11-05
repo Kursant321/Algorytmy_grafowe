@@ -7,7 +7,6 @@
     <list default="true" id="3937a995-7b02-42b7-bb32-73a212bdaf30" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab2/lab2_solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/lab2_solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/lab2_solution_bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/lab2_solution_bfs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.lab2_solution_bfs">
+  <component name="RunManager" selected="Python.lab2_solution">
     <configuration name="lab1_solution_dijkstra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorytmy_grafowe" />
       <option name="ENV_FILES" value="" />
@@ -134,8 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab2_solution_bfs" />
         <item itemvalue="Python.lab2_solution" />
+        <item itemvalue="Python.lab2_solution_bfs" />
         <item itemvalue="Python.lab1_solution_find_union" />
         <item itemvalue="Python.lab1_solution_dijkstra" />
       </list>
