@@ -1,4 +1,6 @@
-''' Zaimplementujemy algorytm Forda-Fulkesona przy użyciu listy sąsiedztwa oraz alorytmu BFS do wyszukiwania ścieżek rozszerzających'''
+''' Zaimplementujemy algorytm Forda-Fulkesona przy użyciu listy sąsiedztwa oraz alorytmu DFS do wyszukiwania ścieżek rozszerzających'''
+
+'''Złożoność algorytmu wynosi O(E*f), gdzie f to maksymalny przepływ z wierzchołka s, bo w najgorszym razie algorytm DFS wykona się właśnie f razy'''
 
 from dimacs import *
 
@@ -18,8 +20,8 @@ def dfs(g, v, t, f, vis):
             pushed = dfs(g, e['to'], t, min(f, e['cap']), vis)
             if pushed:
 
-                e['cap'] -= pushed
-                g[e['to']][e['rev']]['cap'] += pushed
+                e['cap'] -= pushed # zmniejszamy dostępną przepustowość kanału dla krawedzi e
+                g[e['to']][e['rev']]['cap'] += pushed # zwiększamy przepływ tą krawędzią w sieci rezydualnej
                 return pushed
     return 0
 

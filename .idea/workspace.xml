@@ -5,36 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3937a995-7b02-42b7-bb32-73a212bdaf30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab2/connectivity/clique100" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/connectivity/clique20" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/connectivity/clique200" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/connectivity/clique5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/connectivity/cycle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/connectivity/grid100x100" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/connectivity/grid5x5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/connectivity/path" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/connectivity/rand100_500" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/connectivity/rand20_100" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/connectivity/simple" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/dimacs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/flow/clique100" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/flow/clique20" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/flow/clique5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/flow/grid100x100" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/flow/grid5x5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/flow/pp100" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/flow/rand100_500" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/flow/rand20_100" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/flow/simple" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/flow/simple2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/flow/trivial" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/flow/trivial2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/flow/worstcase" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/lab2_solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/lab2_solution_bfs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/lab1_solution_dijkstra.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1_solution_dijkstra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/lab1_solution_find_union.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1_solution_find_union.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/lab2_solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/lab2_solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/lab2_solution_bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/lab2_solution_bfs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,16 +33,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.lab1_solution_dijkstra.executor": "Run",
-    "Python.lab1_solution_find_union.executor": "Run",
-    "Python.lab2_solution.executor": "Run",
-    "Python.lab2_solution_bfs.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.lab1_solution_dijkstra.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab1_solution_find_union.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab2_solution.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab2_solution_bfs.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.lab2_solution_bfs">
     <configuration name="lab1_solution_dijkstra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorytmy_grafowe" />
