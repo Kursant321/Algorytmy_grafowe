@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3937a995-7b02-42b7-bb32-73a212bdaf30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab2/edmondson_karp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/ford_fulkerson.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/lab2_solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/lab2_solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,18 +33,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.lab1_solution_dijkstra.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab1_solution_find_union.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab2_solution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab2_solution_bfs.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.edmondson_karp.executor": "Run",
+    "Python.ford_fulkerson.executor": "Run",
+    "Python.lab1_solution_dijkstra.executor": "Run",
+    "Python.lab1_solution_find_union.executor": "Run",
+    "Python.lab2_solution.executor": "Run",
+    "Python.lab2_solution_bfs.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
-  <component name="RunManager" selected="Python.lab2_solution">
-    <configuration name="lab1_solution_dijkstra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.edmondson_karp">
+    <configuration name="edmondson_karp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorytmy_grafowe" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,11 +55,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab1/lab1_solution_dijkstra.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2/edmondson_karp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ford_fulkerson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorytmy_grafowe" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2/ford_fulkerson.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,10 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.edmondson_karp" />
+        <item itemvalue="Python.ford_fulkerson" />
         <item itemvalue="Python.lab2_solution" />
         <item itemvalue="Python.lab2_solution_bfs" />
         <item itemvalue="Python.lab1_solution_find_union" />
-        <item itemvalue="Python.lab1_solution_dijkstra" />
       </list>
     </recent_temporary>
   </component>
